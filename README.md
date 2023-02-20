@@ -1,12 +1,5 @@
 # QuizApp
 
-
-[![GitHub issues](https://img.shields.io/github/issues/prabs222/QuizApp)](https://github.com/prabs222/QuizApp/issues)
-[![GitHub forks](https://img.shields.io/github/forks/prabs222/QuizApp)](https://github.com/prabs222/QuizApp/network)
-[![GitHub stars](https://img.shields.io/github/stars/prabs222/QuizApp)](https://github.com/prabs222/QuizApp/stargazers)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-<br>
-
 ## Setup Instructions
 
 Clone the repo in your local system
